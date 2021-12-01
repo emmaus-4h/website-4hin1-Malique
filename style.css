@@ -49,9 +49,10 @@ footer {
 
 /* specifieke stijlen */
 
-img.zweefLinks {
-    float: left;
-    margin-right: 15px; 
+img.zweefright {
+    float: right;
+    margin-left: 15px; 
+  
 }
 
 .smalltext {
