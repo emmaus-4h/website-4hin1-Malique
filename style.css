@@ -16,14 +16,12 @@
 html, body {
     height: 100%;
     padding: 0;
-    background-color: rgb(172, 216, 252);  
     
-    color: #303030;
-    font: Verdana, Arial, Sans-Serif;
-}
-
-body{
-  background-image: url("back.jpeg");
+    
+color: #303030;
+font: Verdana, Arial, Sans-Serif;
+background-image:url("afbeeldingen/back.jpeg");
+background-repeat:no-repeat;
 }
 
 
