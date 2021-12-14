@@ -22,6 +22,9 @@ color: #303030;
 font: Verdana, Arial, Sans-Serif;
 background-image:url("afbeeldingen/back.jpeg");
 background-repeat:no-repeat;
+background-size:cover;
+background-attachment: fixed;
+background: rgba (0,0,0,0.3)
 }
 
 
